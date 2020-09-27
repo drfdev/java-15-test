@@ -1,2 +1,4 @@
 # java-15-test
-Testing java 15 features
+Testing some features of java 15
+
+java version: 15
